@@ -1,0 +1,26 @@
+body {
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat; }
+
+div {
+  text-align: center; }
+  div .login {
+    margin-top: 50px;
+    border: 1px solid lightgrey;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    background-color: #EDEDED;
+    border-radius: 5px;
+    box-shadow: 1px lightblue;
+    opacity: 0.7; }
+  div .login:hover {
+    opacity: 0.8; }
+  div .text_hover:hover {
+    border: 2px solid #aab9e7; }
+  div .pd {
+    padding-top: 20px; }
+  div .img {
+    width: 100px;
+    height: 100px; }
+
+/*# sourceMappingURL=example.css.map */

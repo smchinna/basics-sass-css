@@ -1,0 +1,31 @@
+$padding-top:20px;
+body{
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+}
+div{
+    .login{
+	margin-top:50px;
+	border:1px solid lightgrey;
+	padding-top:$padding-top;
+	padding-bottom:25px; 
+	background-color:#EDEDED;
+    border-radius:5px;
+	box-shadow: 1px lightblue;
+	opacity:0.7;
+	}
+	.login:hover{
+		opacity: 0.8;
+	}
+	.text_hover:hover{
+		border:2px solid #aab9e7;
+	}
+	.pd{
+	padding-top:$padding-top;
+	}
+	.img{
+	width:100px;
+	height:100px;
+    }
+    text-align: center;
+}

@@ -1,0 +1,13 @@
+$margin-top:40vh;
+.square {
+    width: 50%;
+    height: 100%;
+    border: 1px solid red;
+    background-color: red;
+    color: #ffffff;
+    font-size: 1.2vw;
+    padding-top: 20%;
+    padding-bottom: 20%; 
+    margin-left: 25%;
+    margin-top:$margin-top;
+}
